@@ -1,1 +1,0 @@
-import{c as y,k as o,H as u,E as _,h as t,C as g,l,n as i,o as n,j as p,q as m}from"./B-cQTU_k.js";function C(d,r){let s=null,E=t;var a;if(t){s=p;for(var e=m(document.head);e!==null&&(e.nodeType!==g||e.data!==d);)e=l(e);if(e===null)i(!1);else{var f=l(e);e.remove(),n(f)}}t||(a=document.head.appendChild(y()));try{o(()=>r(a),u|_)}finally{E&&(i(!0),n(s))}}export{C as h};
